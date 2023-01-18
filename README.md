@@ -42,4 +42,4 @@ More detailed descriptions of options:
 
 7.You can print out only the foods in the database
 
-8.You can generate a menu for a week. This happens by randomly selecting from the available foods, based on their propertis. Something that is cheaper has a bigger chance of getting selected. The application also generates a shopping list for the entire week
+8.You can generate a menu for a week. This happens by randomly selecting from the available foods, based on their propertis. Something that is cheaper has a bigger chance of getting selected. The application also generates a shopping list for the entire week. You also have the options to regenerate the menu and save it to a text file
